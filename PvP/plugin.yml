@@ -1,0 +1,7 @@
+name: PvP
+author: FineGamer
+version: 1.0.0
+main: br.finegamer.kitpvp.main.Main
+commands:
+  aplicar:
+  tag:
